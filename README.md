@@ -1,1 +1,1 @@
-# synthetic_controls
+This code is aimed at replicating main findings of the paper “The Economic Costs of Conflict: A Case Study of the Basque Country,” by Alberto Abadie & Javier Gardeazabal from American Economic Review (2003). The authors compared the evolution of Basque Country outcomes with a weighted average of other Spanish regions: the synthetic control. The data includes per-capita GDP (the outcome variable), population density, sectoral production, investment, and human capital.
